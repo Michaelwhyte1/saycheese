@@ -1,2 +1,2 @@
-# saycheese
-Hack
+
+Git clone https://github.com/thelinuxchoice/saycheese
